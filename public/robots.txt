@@ -1,0 +1,9 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Crawl-delay (optional, be respectful)
+Crawl-delay: 1
+
+# Sitemap location (update with your actual domain when deployed)
+Sitemap: https://nanoadsbanana.com/sitemap.xml
