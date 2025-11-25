@@ -22,7 +22,7 @@ const STATUS_MESSAGES: Record<GenerationStatus, string> = {
 const STATUS_DESCRIPTIONS: Record<GenerationStatus, string> = {
   idle: '',
   preparing: 'Building prompt and processing images for AI generation',
-  generating: 'AI is creating your custom ad design with Claude',
+  generating: 'Gemini is creating your custom ad design',
   complete: 'Your ad is ready to preview',
   error: 'Please try again or check your settings',
 };
